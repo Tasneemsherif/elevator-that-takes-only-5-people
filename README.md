@@ -23,10 +23,10 @@ we masure the number of people in the room.
 
 1. push button
 2. buzzer
-3.LED
-4.LDR
-5.servo motor
-6.ardiuno uno
+3. LED
+4. LDR
+5. servo motor
+6. ardiuno uno
 7. wires
 8. bettery 9V
 
